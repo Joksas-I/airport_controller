@@ -1,0 +1,17 @@
+{
+    "name": "irmantas/joksas",
+    "description": "Objective Bank",
+    "authors": [{
+        "name": "Irmantas-Joksas",
+        "email": "joksas.irmantas@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Airport\\": "app",
+            "App\\DB\\": "app"
+        }
+    },
+    "require": {
+        "ramsey/uuid": "^4.2"
+    }
+}

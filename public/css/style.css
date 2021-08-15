@@ -1,0 +1,86 @@
+.countriesTable {
+    width: 300px
+}
+.deleteButton {
+    background: none;
+    border: none;
+}
+.iconEdit {
+    text-decoration: none;
+    color: #7aead5;
+}
+.iconDelete {
+    color: #da5296;
+}
+.form-select {
+    width: 250px;
+}
+.label {
+    padding: 10px;
+}
+.table {
+    text-align: center;
+}
+.mainControll {
+    margin: 30px 10px;
+}
+.mainLogo {
+    font-size: 30px;
+    padding: 10px;
+}
+.form-control {
+    display: inline;
+    width: 200px;
+}
+.code404 {
+    background-image: url(../img/404.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.selectBtn {
+    padding: 5px;
+}
+.airlineEdit {
+    text-decoration: none;
+    color: white;    
+}
+.airlineEdit:hover{
+    color: white;
+    font-weight: bold;
+}
+.selectOption {
+    color: white;
+    background: none;
+    padding: 0 10px;
+    border-radius: 15px;
+}
+.optionselect {
+    background-color: black;
+    color: white;
+}
+.msgBoxWarning {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, 0);
+    padding: 5px;
+    border: 1px solid #e94e4e;
+    border-radius: 5px;
+    background-color: #e94e4e;
+}
+.msg {
+    font-weight: bold;
+    color: #ffffff;
+}
+.msgBoxOk {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, 0);
+    padding: 5px;
+    border: 1px solid #57cc3f;
+    border-radius: 5px;
+    background-color: #57cc3f;
+}
